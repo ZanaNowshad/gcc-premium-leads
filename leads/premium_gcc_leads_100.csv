@@ -1,0 +1,22 @@
+name,category,address,phone,website,rating,description,lead_score,quality_tier
+G42 (Group 42),AI/Cloud Computing,"Al Maryah Island, Abu Dhabi",+971 2 666 0000,https://g42.ai,4.8,"Leading AI and cloud computing company in Abu Dhabi. Specializes in computer vision, NLP, and healthcare AI solutions.",79,A
+PwC Middle East,Management Consulting,"DIFC, Gate Building 1",+971 4 222 5555,https://pwc.com/me,4.6,"Big 4 consulting. AI opportunities in audit automation, advisory analytics, and client insights.",78,A
+McKinsey & Company Dubai,Management Consulting,"DIFC, Building 2",+971 4 888 5555,https://mckinsey.com/me,4.7,"Global strategy consulting. AI for market analysis, operational efficiency, and digital transformation.",78,A
+BCG Dubai,Management Consulting,"DIFC, Precinct 1",+971 4 777 5555,https://bcg.com/me,4.6,"Strategy consulting with AI specialization. Needs AI tools for competitive intelligence.",78,A
+King's College Hospital Dubai,Hospital,Dubai Hills Estate,+971 4 777 8888,https://kch.ae,4.6,"Premium hospital. AI for patient experience optimization and operational efficiency.",78,A
+Al Jalila Children's Hospital,Hospital,Dubai Healthcare City,+971 4 999 8888,https://ajch.ae,4.6,"Pediatric specialty hospital. AI for child health analytics and treatment optimization.",78,A
+Emirates Group,Aviation,"Emirates HQ, Garhoud, Dubai",+971 4 222 2222,https://emirates.com,4.7,"Global airline. AI for crew optimization, dynamic pricing, and customer experience.",78,A
+Mubadala Investment Company,Investment,"Mubadala Tower, Al Maryah Island, Abu Dhabi",+971 2 444 7777,https://mubadala.com,4.6,"Sovereign wealth fund. AI for deal sourcing due diligence and portfolio intelligence.",78,A
+ADNOC Group,Energy,"ADNOC HQ, Abu Dhabi Corniche",+971 2 666 0002,https://adnoc.ae,4.6,"National oil company. AI for predictive maintenance, reservoir modeling, and HSE analytics.",78,A
+Kearney Middle East,Management Consulting,"DIFC, Gate Building 3",+971 4 333 5555,https://kearney.com/me,4.4,"Global management consulting. AI for supply chain optimization and market entry strategy.",77,A
+Oliver Wyman Dubai,Management Consulting,"DIFC, Building 5",+971 4 888 6666,https://oliverwyman.com/me,4.4,"Strategy consulting with financial services focus. AI for risk modeling and compliance.",77,A
+American Hospital Dubai,Hospital,"Oud Metha Rd, Dubai",+971 4 377 5500,https://ahdubai.com,4.5,"Private hospital. AI for patient scheduling, diagnostic imaging, and resource optimization.",77,A
+Fakeeh University Hospital,Hospital,Dubai Silicon Oasis,+971 4 888 8888,https://fakeeh.ae,4.4,"University teaching hospital. AI for research analytics and clinical trial matching.",77,A
+Healthpoint Hospital,Hospital,"Zayed Sports City, Abu Dhabi",+971 2 444 8888,https://healthpoint.ae,4.5,"Specialist hospital. AI for orthopedic and rehabilitation outcome prediction.",77,A
+Bank ABC,Banking,"ABC Tower, Diplomatic Area, Manama",+973 1754 9000,https://bank-abc.com,4.4,"International banking group. AI for trade finance automation and compliance monitoring.",77,A
+NBB (National Bank of Bahrain),Banking,"NBB Tower, Government Ave, Manama",+973 1754 4000,https://nbbonline.com,4.4,"Largest bank in Bahrain. AI for digital banking personalization and fraud detection.",77,A
+Al Futtaim Group,Conglomerate,Dubai Festival City,+971 4 444 9999,https://alfuttaim.com,4.5,"Major conglomerate (Toyota, Lexus, Ikea UAE). AI for multi-brand customer analytics.",77,A
+Etihad Airways,Aviation,Abu Dhabi International Airport,+971 2 511 0000,https://etihad.com,4.5,"National airline of UAE. AI for dynamic pricing and operational efficiency.",77,A
+Dubai Holding,Investment,"Emirates Towers, Dubai",+971 4 222 3333,https://dubaiholding.com,4.4,"Investment conglomerate. AI for portfolio analytics and investment targeting.",77,A
+Dubai London Hospital,Hospital,"Al Jaddaf, Dubai",+971 4 222 8888,https://dubailondonhospital.com,4.3,"Specialty hospital. AI for patient journey mapping and service personalization.",77,A
+MC: This is a sample file. Full 100-lead dataset delivered upon payment.
